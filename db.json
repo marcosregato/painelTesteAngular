@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "nome": "teste_1",
+            "email": "teste_1@teste_1.com"
+        },
+        {
+            "id": "2",
+            "nome": "teste_2",
+            "email": "teste_2@teste_2.com"
+        },
+        {
+            "id": "3",
+            "nome": "teste_3",
+            "email": "teste_3@teste_3.com"
+        }
+    ]
+}

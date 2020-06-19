@@ -1,5 +1,39 @@
 # PainelTesteAngular
 
+# Painel Teste Angular (EM DESENVOLVIMENTO)
+
+> Painel Teste, faz parte de arquitetura de sistema para testa sistemas web.</br>
+> Visualiza os teste que estão sendo executados </br></br>
+> Versão 01
+
+
+![Semantic description of image](./diagrama.png)</p>
+<h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ Arquitetura do projeto </h3>
+ 
+> ** Ferramentas de desenvolvimento ** </br>
+> * Angular - versão 8
+> * BootStrap
+
+# Links dos projetos da arquitetura
+> __Modelo Teste Funcional__
+> [GitHub Pages](https://github.com/marcosregato/modeloTesteFuncional).</br>
+
+> __Painel Teste Angular__
+> [GitHub Pages](https://github.com/marcosregato/painelTesteAngular).</br>
+
+> __Api Teste MongoDB__
+> [GitHub Pages](https://github.com/marcosregato/apiTesteMongoDB).</br>
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.27.
 
 ## Development server
@@ -25,3 +59,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+# painelTesteAngular
