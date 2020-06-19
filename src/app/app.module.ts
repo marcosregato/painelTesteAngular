@@ -12,6 +12,8 @@ import { FormCenarioComponent } from './formCenario/formCenario.component';
 import { FormProjetoComponent } from './formProjeto/formProjeto.component';
 import { FormUsuarioComponent } from './formUsuario/formUsuario.component';
 
+import { HttpClientModule } from '@angular/common/http';
+
 @NgModule({
    declarations: [
       AppComponent,
@@ -26,7 +28,9 @@ import { FormUsuarioComponent } from './formUsuario/formUsuario.component';
    ],
    imports: [
       BrowserModule,
-      AppRoutingModule
+      AppRoutingModule,
+      HttpClientModule
+
    ],
    providers: [],
    bootstrap: [

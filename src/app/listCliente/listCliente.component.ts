@@ -1,4 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+import { Clientes } from '../clientes';
+import {ClientesService} from '../clientes.service';
+
 
 @Component({
   selector: 'app-listCliente',
@@ -7,9 +10,23 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ListClienteComponent implements OnInit {
 
-  constructor() { }
+  constructor(private clienteService: ClientesService) { }
+
+  public clientes :Clientes[];
 
   ngOnInit() {
+    this.clienteService.getclientes()
+      .subscribe(
+        retorno =>{
+          this.clientes = retorno.map(item =>{
+            return new Clientes(
+              item.id,
+              item.nome,
+              item.email
+            )
+          }
+        )
+      }
+    )
   }
-
 }
