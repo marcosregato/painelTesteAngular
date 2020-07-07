@@ -8,13 +8,7 @@
 
 
 ![Semantic description of image](./diagrama.png)</p>
-<h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- Arquitetura do projeto </h3>
- 
+
 > ** Ferramentas de desenvolvimento ** </br>
 > * Angular - versão 8
 > * BootStrap
@@ -31,6 +25,12 @@
 
 > __convert CSV to JSON__
 > [GitHub Pages](https://github.com/marcosregato/convertCSVtoJSON).</br>
+
+> __Data Science QA__
+> [GitHub Pages](https://github.com/marcosregato/dataScienceQA).</br>
+
+> __Gerador massa de dados QA__
+> [GitHub Pages](https://github.com/marcosregato/geradorMassaQA).</br>
 
 
 
